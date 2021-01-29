@@ -6,3 +6,6 @@ Remeber to install streamlit and yfinance.
 I have also included a requirements.txt for those who would want to
 
 pip install -r requirements.txt
+
+
+remember that to run the app use:streamlit run stocks.py  from the command prompt
